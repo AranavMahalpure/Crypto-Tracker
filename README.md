@@ -1,5 +1,5 @@
 # Crypto Tracker
-A simple Node.js and MongoDB-based server-side application to track cryptocurrency prices, market cap, and 24-hour changes.
+A simple Node.js and MongoDB Atlas -based server-side application to track cryptocurrency prices, market cap, and 24-hour changes.
 ---
 
 ## Features
